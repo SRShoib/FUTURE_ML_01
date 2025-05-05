@@ -5,11 +5,11 @@ To develop a forecasting model capable of predicting future sales trends with th
 ## What I Did:
 Using a real-world sales dataset, I performed time series analysis and built a forecasting pipeline leveraging both classical and ML-based techniques. From preprocessing and trend identification to seasonality decomposition and forecasting, the project covered it all!
 ## Skills Applied & Developed
-  •	Time Series Forecasting using Prophet<br>
-  •	Trend & Seasonality Analysis<br>
-  •	Regression Model Evaluation (MAE, RMSE)<br>
-  •	Data Preprocessing and Feature Engineering<br>
-  •	Forecast Visualization and Interpretation
+<t>•	Time Series Forecasting using Prophet<br>
+<t>•	Trend & Seasonality Analysis<br>
+<t>•	Regression Model Evaluation (MAE, RMSE)<br>
+<t>•	Data Preprocessing and Feature Engineering<br>
+<t>•	Forecast Visualization and Interpretation
 ## Tools & Technologies
   •	Python: Primary programming language
   •	Facebook Prophet: Time series modeling
