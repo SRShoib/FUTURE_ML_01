@@ -11,24 +11,24 @@ Using a real-world sales dataset, I performed time series analysis and built a f
 •	Data Preprocessing and Feature Engineering<br>
 •	Forecast Visualization and Interpretation
 ## Tools & Technologies
-  •	Python: Primary programming language
-  •	Facebook Prophet: Time series modeling
-  •	Scikit-learn: Forecast evaluation (MAE, RMSE)
-  •	Pandas: Data handling and feature engineering
+  •	Python: Primary programming language<br>
+  •	Facebook Prophet: Time series modeling<br>
+  •	Scikit-learn: Forecast evaluation (MAE, RMSE)<br>
+  •	Pandas: Data handling and feature engineering<br>
   •	Matplotlib: Visual representation of trends and forecasts
 ## Highlights:
-  •	Created a multi-step forecasting model tailored for monthly sales trends.
-  •	Visualized forecast confidence intervals and seasonal components.
-  •	Applied regression metrics (MAE, RMSE) to evaluate forecast performance.
+  •	Created a multi-step forecasting model tailored for monthly sales trends.<br>
+  •	Visualized forecast confidence intervals and seasonal components.<br>
+  •	Applied regression metrics (MAE, RMSE) to evaluate forecast performance.<br>
   •	Delivered intuitive plots showing trend shifts and forecast accuracy.
 ## Dataset
 Kaggle Sample Sales Data: https://lnkd.in/g62a6HPH
 ## Key Findings
-  •	Mean Absolute Error (MAE): $1,753.77
-  •	Root Mean Squared Error (RMSE): $2,104.69
-  •	Observed a consistent monthly sales increase, peaking towards the year-end
-  •	Strong weekly seasonality pattern found, particularly around the start of each month
-  •	Forecasts project a positive sales growth trend over the next 6 months
+  •	Mean Absolute Error (MAE): $1,753.77<br>
+  •	Root Mean Squared Error (RMSE): $2,104.69<br>
+  •	Observed a consistent monthly sales increase, peaking towards the year-end<br>
+  •	Strong weekly seasonality pattern found, particularly around the start of each month<br>
+  •	Forecasts project a positive sales growth trend over the next 6 months<br>
   •	Generated visualizations highlighting forecast components (trend, seasonality, residuals)
 
 
