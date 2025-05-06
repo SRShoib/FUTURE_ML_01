@@ -30,6 +30,9 @@ Dataset Source: <a href="https://www.kaggle.com/datasets/kyanyoga/sample-sales-d
   •	Strong weekly seasonality pattern found, particularly around the start of each month<br>
   •	Forecasts project a positive sales growth trend over the next 6 months<br>
   •	Generated visualizations highlighting forecast components (trend, seasonality, residuals)
+## Visualization
+https://github.com/SRShoib/FUTURE_ML_01/blob/main/Visualization/Actual%20vs%20Forecasted%20Sales%20(with%20Cinfidence%20Intervals).png
+
 
 
 
