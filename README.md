@@ -22,7 +22,7 @@ Using a real-world sales dataset, I performed time series analysis and built a f
   •	Applied regression metrics (MAE, RMSE) to evaluate forecast performance.<br>
   •	Delivered intuitive plots showing trend shifts and forecast accuracy.
 ## Dataset
-Kaggle Sample Sales Data: https://lnkd.in/g62a6HPH
+Dataset Source: <a href="https://www.kaggle.com/datasets/kyanyoga/sample-sales-data">Sample Dataset (Kaggle)</a>
 ## Key Findings
   •	Mean Absolute Error (MAE): $1,753.77<br>
   •	Root Mean Squared Error (RMSE): $2,104.69<br>
